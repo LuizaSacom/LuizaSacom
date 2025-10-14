@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, me chamo Luiza! 👋
 
-<!--
-**LuizaSacom/LuizaSacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Análise e Desenvolvimento de Sistemas na UTFPR e estou começando minha carreira na área de TI! Sou Analista de qualidade (QA) com foco em Automação de Testes. Sou desenvolvedora com experiência sólida nas tecnologias JavaScript, Selenium, Robot Framework, Python, Appium, Android Studio. Além disso, também possuo conhecimentos de Back-End em tecnologias como API REST e Banco de Dados (MongoDB e DBeaver), além de já ter estudado academicamente as linguagens Java e C.
 
-Here are some ideas to get you started:
+💪 Hard Skills: Experiência com JavaScript, Selenium, Robot Framework, Python, Appium, Android Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Soft Skills: Sou colaborativa e gosto de trabalhar em equipe contribuindo para um ambiente produtivo. Busco sempre entender o produto de forma ampla e antecipar possíveis falhas, entregando produtos com mais qualidade.
+
+Estou sempre buscando aprender e evoluir, aprimorando minhas habilidades em automação de testes e garantindo a entrega de produtos com mais qualidade, eficiência e segurança.
+
+**💌 Contatos:**
+E-mail: luizamsacom@gmail.com
+LinkedIn: www.linkedin.com/in/luiza-matilha-sacom-bb62352b0
