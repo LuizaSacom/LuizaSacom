@@ -9,6 +9,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas na UTFPR e estou começand
 Estou sempre buscando aprender e evoluir, aprimorando minhas habilidades em automação de testes e garantindo a entrega de produtos com mais qualidade, eficiência e segurança.
 
 **💌 Contatos:**
+
 E-mail: luizamsacom@gmail.com
 
 LinkedIn: www.linkedin.com/in/luiza-matilha-sacom-bb62352b0
